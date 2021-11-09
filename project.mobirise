@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-08_1546",
+    "name": "Coprodução hotmart",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -79,7 +79,16 @@
     "publishChangesOnly": true,
     "uniqCompNum": 37,
     "versionPublish": "5.3.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "mbrsiteDomain": "vxudfxpeuw",
+    "canonical-url": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
